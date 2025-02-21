@@ -145,7 +145,7 @@ body {
 @media (max-width: 768px) {
   .main-container {
     width: 80%;
-    margin: 1rem auto;
+    margin: auto;
     align-items: center;
     text-align: center;
   }
